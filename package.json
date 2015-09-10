@@ -1,0 +1,8 @@
+{
+  "name": "simple-nodejs-example",
+  "version": "1.0.0",
+  "description": "Simple example of NodeJS web application",
+  "dependencies": {
+    "jasmine": "~2.3.2"
+  }
+}
